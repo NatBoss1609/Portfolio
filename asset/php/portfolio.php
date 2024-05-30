@@ -5,17 +5,49 @@
 ?>
 
     <main>
-
         <div id="carouselExample" class="carousel slide">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="../img/site_kyoto.PNG" class="d-block w-100" alt="image représentant le site Kyoto">
+                    <div class="card">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <img src="../img/site_kyoto.PNG" class="d-block w-100" alt="image représentant le site Kyoto">
+                            </div>
+                            <div class="card-back">
+                                <h2>Site de présentation de Kyoto</h2>
+                                <p>Langages utilisés : HTML, CSS</p>
+                                <a href="https://natboss1609.github.io/Site-Kyoto/">Voir le site</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="carousel-item">
-                <img src="../img/site_recette.PNG" class="d-block w-100" alt="image représentant le site recette d'omelette">
+                    <div class="card">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <img src="../img/site_recette.PNG" class="d-block w-100" alt="image représentant le site recette d'omelette">
+                            </div>
+                            <div class="card-back">
+                                <h2>Recette pour une omelette</h2>
+                                <p>Langages utilisés : HTML, CSS</p>
+                                <a href="https://natboss1609.github.io/Site-Page-Recette/">Voir le site</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="carousel-item">
-                <img src="../img/site_voyage.PNG" class="d-block w-100" alt="image représentant le site d'agence de voyage">
+                    <div class="card">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <img src="../img/site_voyage.PNG" class="d-block w-100" alt="image représentant le site d'agence de voyage">
+                            </div>
+                            <div class="card-back">
+                                <h2>Site pour une agence de voyage</h2>
+                                <p>Langages utilisés : HTML, CSS</p>
+                                <a href="https://natboss1609.github.io/Site-Agence-de-Voyage/">Voir le site</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -28,6 +60,7 @@
             </button>
         </div>
     </main>
+
 
 <?php
 
