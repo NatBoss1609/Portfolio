@@ -14,7 +14,7 @@
                 <div class="card-body">
                     <h5 class="card-title">HTML (100%)</h5>
                     <p class="card-text">Langage de balisage utilisé pour structure le contenu des pages</p>
-                    <a href="https://developer.mozilla.org/fr/docs/Web/HTML" class="btn btn-primary">Plus d'infos sur le langage</a>
+                    <a href="https://developer.mozilla.org/fr/docs/Web/HTML" class="btn btn-primary" title="lien vers la documentation officiel du langage HTML">Plus d'infos sur le langage</a>
                 </div>
             </div>
             <div class="card" style="width: 18rem;">
@@ -22,7 +22,7 @@
                 <div class="card-body">
                     <h5 class="card-title">CSS (95%)</h5>
                     <p class="card-text">Langage de style permettant de styliser et mettre en forme les pages HTML</p>
-                    <a href="https://developer.mozilla.org/fr/docs/Web/CSS" class="btn btn-primary">Plus d'infos sur le langage</a>
+                    <a href="https://developer.mozilla.org/fr/docs/Web/CSS" class="btn btn-primary" title="lien vers la documentation officiel du langage CSS">Plus d'infos sur le langage</a>
                 </div>
             </div>
             <div class="card" style="width: 18rem;">
@@ -30,7 +30,7 @@
                 <div class="card-body">
                     <h5 class="card-title">JAVASCRIPT (50%)</h5>
                     <p class="card-text">Langage de programmation côté client pour créer des fonctionnalités sur les pages web</p>
-                    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" class="btn btn-primary">Plus d'infos sur le langage</a>
+                    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" class="btn btn-primary" title="lien vers la documentation officiel du langage JavaScript">Plus d'infos sur le langage</a>
                 </div>
             </div>
         </div>

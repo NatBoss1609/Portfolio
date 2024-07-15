@@ -16,7 +16,7 @@
                             <div class="card-back">
                                 <h2>Site de présentation de Kyoto</h2>
                                 <p>Langages utilisés : HTML, CSS</p>
-                                <a href="https://guide-kyoto.be/" target="_blank">Voir le site</a>
+                                <a href="https://guide-kyoto.be/" target="_blank" title="lien vers le site du guide de Kyoto">Voir le site</a>
                             </div>
                         </div>
                     </div>
@@ -30,7 +30,7 @@
                             <div class="card-back">
                                 <h2>Recette pour une omelette</h2>
                                 <p>Langages utilisés : HTML, CSS</p>
-                                <a href="https://natboss1609.github.io/Site-Page-Recette/" target="_blank">Voir le site</a>
+                                <a href="https://natboss1609.github.io/Site-Page-Recette/" target="_blank" title="lien vers le site de recette d'une omlette">Voir le site</a>
                             </div>
                         </div>
                     </div>
@@ -44,7 +44,7 @@
                             <div class="card-back">
                                 <h2>Site pour le restaurant Pistache</h2>
                                 <p>Langages utilisés : HTML, CSS et PHP</p>
-                                <a href="https://restaurant-pistache.com/" target="_blank">Voir le site</a>
+                                <a href="https://restaurant-pistache.com/" target="_blank" title="lien vers le site du restaurant Pistache">Voir le site</a>
                             </div>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                             </div>
                             <div class="card-back">
                                 <h2>Application Laundry Heap</h2>
-                                <a href="https://play.google.com/store/apps/details?id=com.encureit.laundryheap&hl=fr&gl=US&pli=1" target="_blank">Voir l'application</a>
+                                <a href="https://play.google.com/store/apps/details?id=com.encureit.laundryheap&hl=fr&gl=US&pli=1" target="_blank" title="lien de téléchargement de l'application Laundry Heap">Voir l'application</a>
                             </div>
                         </div>
                     </div>
@@ -70,7 +70,7 @@
                             </div>
                             <div class="card-back">
                                 <h2>Application BigWill</h2>
-                                <a href="https://play.google.com/store/apps/details?id=com.encureit.willmealapp&hl=fr&gl=US" target="_blank">Voir l'application</a>
+                                <a href="https://play.google.com/store/apps/details?id=com.encureit.willmealapp&hl=fr&gl=US" target="_blank" title="lien de téléchargement de l'application BigWill">Voir l'application</a>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                             </div>
                             <div class="card-back">
                                 <h2>Application Let's Eat</h2>
-                                <a href="https://letseat.ky/" target="_blank">Voir l'application</a>
+                                <a href="https://letseat.ky/" target="_blank" title="lien vers l'application Let's Eat">Voir l'application</a>
                             </div>
                         </div>
                     </div>
