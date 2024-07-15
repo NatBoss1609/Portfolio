@@ -74,7 +74,7 @@
           <div class="header_logo-img-cont">
             <a href="../../index.html"><img src="../img/moi-removebg-preview.png" alt="logo dechno-code" class="header_logo-img"></a>
           </div>
-          <span>Nathan Decraye - Portfolio</span>
+          <a href="../../index.html"><span>Nathan Decraye - Portfolio</span></a>
         </div>
         <div class="toggler-container">
             <button>
